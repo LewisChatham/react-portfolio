@@ -83,6 +83,7 @@ li {
   background: white;
   border-radius: 50px;
   filter: drop-shadow(8px 8px 50px rgba(0, 0, 0, 0.205));
+  min-width: 300px;
 }
 
 .project button {
