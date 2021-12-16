@@ -25,6 +25,20 @@ const projectsArr = [
         image: "",
         repoURL: "https://github.com/LewisChatham/very-simple-note-taker",
         id: 4
+    },
+    {
+        name: "Budget Tracker",
+        url: "https://rocky-ridge-81538.herokuapp.com/",
+        image: "",
+        repoURL: "https://github.com/LewisChatham/budget-trackers",
+        id: 5
+    },
+    {
+        name: "Fitness Tracker",
+        url: "https://damp-dawn-70742.herokuapp.com/?id=61ba8fb5367fa200161fab35",
+        image: "",
+        repoURL: "https://github.com/LewisChatham/Fitness-tracker",
+        id: 6
     }
 ]
 
